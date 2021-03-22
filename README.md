@@ -1,4 +1,4 @@
-# Mr.-DankAid
-A normal easy bot made by me. Its custom. The code aint that great. 
-Everything here is made customly for my friends with their id's and auto responses. 
-If you want, take the code and copy it down with a couple tweaks.
+# A Vouch Bot
+
+This bot can count your vouches. The prefix is /. To view vouches /v or /vouches.
+Can be used for counting dank memer trade vouches or vouches for coding well, etc.
